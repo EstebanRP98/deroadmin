@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "844241444762",
+    "project_id": "mercatoec",
+    "storage_bucket": "mercatoec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844241444762:android:7105b70fa8a21ccf4e2423",
+        "android_client_info": {
+          "package_name": "com.edrp.mercato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844241444762-06ardgfrtd9a7kgb3t658skq1vn6a29g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edrp.mercato",
+            "certificate_hash": "01f9672a79b2f16f23a2d9d93bea79e6dd8cd2bb"
+          }
+        },
+        {
+          "client_id": "844241444762-rkorqq5ip05jrbo5rqaidgd4nns11fea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edrp.mercato",
+            "certificate_hash": "807a844c8f28bafbfbb9d090b5009c1901ff25c5"
+          }
+        },
+        {
+          "client_id": "844241444762-s85646gf8gbs97s8eh1cveevj8hci9mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edrp.mercato",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "844241444762-rjjj7qi70ld9jemkh9vfmtvmp3faeavn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjrBoUKBhgcQLVIch0Rr3iQi9eA8fuic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844241444762-crig23a6peokv95uunk6vsspmc17fncd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844241444762-qkavonu0pmro8b5i5t9dujo47skqevq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edrp.mercato"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

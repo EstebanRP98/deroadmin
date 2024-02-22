@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-deroadmin-dev-183448-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030327021565:role/amplify-deroadmin-dev-183448-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030327021565:role/amplify-deroadmin-dev-183448-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-deroadmin-dev-183448-deployment",
+      "UnauthRoleName": "amplify-deroadmin-dev-183448-unauthRole",
+      "StackName": "amplify-deroadmin-dev-183448",
+      "StackId": "arn:aws:cloudformation:us-west-2:030327021565:stack/amplify-deroadmin-dev-183448/ed116540-d1da-11ee-b287-06a774724119",
+      "AmplifyAppId": "d345fbkbkr1ah4"
+    }
+  }
+}
